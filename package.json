@@ -4,7 +4,8 @@
   "description": "A chatbot capable of nlp",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/alipirouzi/nlbot/issues"
   },
-  "homepage": "https://github.com/alipirouzi/nlbot#readme"
+  "homepage": "https://github.com/alipirouzi/nlbot#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "express": "^4.17.1",
+    "mocha": "^8.3.2"
+  }
 }
