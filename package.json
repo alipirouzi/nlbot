@@ -1,0 +1,19 @@
+{
+  "name": "nlbot",
+  "version": "1.0.0",
+  "description": "A chatbot capable of nlp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alipirouzi/nlbot.git"
+  },
+  "author": "Ali Pirouzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alipirouzi/nlbot/issues"
+  },
+  "homepage": "https://github.com/alipirouzi/nlbot#readme"
+}
